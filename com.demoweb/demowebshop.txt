@@ -1,0 +1,4 @@
+Browser chrome
+URL http://demowebshop.tricentis.com/
+UN planittest78@gmail.com
+PW 123456
