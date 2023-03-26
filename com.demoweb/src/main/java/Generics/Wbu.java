@@ -24,7 +24,7 @@ public class Wbu {
 			}
 			/**
 			 * this method is  for explicit wait 
-			 * @param driver
+			 * @param driver(maximising screen)
 			 */
 
 			
